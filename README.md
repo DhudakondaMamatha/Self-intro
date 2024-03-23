@@ -1,10 +1,4 @@
 
-💫 About Me:
-
-Absolutely! Here's the "About Me" section infused with emojis:
-
----
-
 **About Me:**
 
 👋 Hi there! I'm Mamatha Dudakonda, a diligent and dedicated professional with a strong foundation in Electrical and Electronics Engineering. My academic journey includes a Bachelor of Technology degree from Dr. K.V. Subba Reddy College of Engineering for Women, where I achieved a commendable grade of 75.48%. Prior to that, I completed my Diploma in Electrical and Electronics Engineering at Geetanjali College of Engineering & Technology with an outstanding score of 87.1%. My educational background has equipped me with a robust understanding of core concepts in my field. 🎓
