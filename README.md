@@ -5,7 +5,7 @@
 
 In addition to my academic achievements, I possess a diverse skill set in both front-end and back-end technologies. Proficient in HTML, CSS, JavaScript, and Bootstrap for front-end development, I also excel in Core Java, Object-Oriented Programming (OOPs), J2EE, Hibernate, Spring, and Spring Boot for back-end development. Furthermore, I am adept at managing databases, particularly MySQL. 💻
 
-My passion for innovation and problem-solving led me to undertake an intriguing academic project titled "IoT Integrated Distribution Power Grid Losses with Automatic Tracking Location using Decision Tree Algorithm" in 2020. This project not only showcased my technical abilities but also demonstrated my ability to tackle real-world challenges in the realm of electrical distribution systems. 🛠️
+My passion for innovation and problem-solving led me to undertake an intriguing academic project titled "IoT Integrated Distribution Power Grid Losses with Automatic Tracking Location using Decision Tree Algorithm" in 2023. This project not only showcased my technical abilities but also demonstrated my ability to tackle real-world challenges in the realm of electrical distribution systems. 🛠️
 
 Building on my academic foundation, I embarked on a transformative journey as a Software Development Intern at KodNest Technologies in Bangalore. During my tenure from June 2023 to January 2024, I gained invaluable hands-on experience in Java, Full Stack development, and SQL. Working alongside industry professionals, I contributed to meaningful projects, honing my skills and broadening my understanding of software development practices. 💼
 
